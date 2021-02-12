@@ -1,0 +1,51 @@
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	font-display: swap;
+	background: rgb(255, 255, 255);
+	font-weight: 600;
+	letter-spacing: -1px;
+}
+
+h1 {
+	font-size: 62px;
+	font-weight: 900;
+	font-style: normal;
+	font-style: italic;
+}
+img {
+	float: right;
+	margin: 0px 50px 0px 50px;
+}
+.int_p {
+	font-size: 36px;
+	font-weight: 700;
+	font-style: italic;
+}
+.profile_p {
+	font-size: 36px;
+	font-weight: 700;
+	font-style: italic;
+}
+.profile_item {
+	margin: 20px;
+	font-size: 30px;
+}
+.int_item {
+	font-size: 30px;
+}
+.profile_ul {
+	margin: 20px;
+	font-size: 30px;
+}
+.link_p {
+	font-size: 36px;
+	font-weight: 700;
+	font-style: italic;
+}
+.links_ul {
+	text-decoration: underline;
+	margin: 28px;
+	color: rgba(69, 17, 211, 0.883);
+	font-size: 30px;
+}
